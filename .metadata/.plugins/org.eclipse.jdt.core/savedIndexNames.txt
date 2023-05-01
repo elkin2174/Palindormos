@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/elkin/Escritorio/proyectos udemy/primera seccion/RepositorioPalindromos/.metadata/.plugins/org.eclipse.jdt.core
+166660816.index
+1865797976.index
+3787839551.index

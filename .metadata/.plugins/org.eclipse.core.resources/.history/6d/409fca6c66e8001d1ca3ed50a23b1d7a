@@ -1,0 +1,25 @@
+import javax.swing.JOptionPane;
+
+public class main {
+
+	public static void main(String[] args) {
+		
+		String texto = JOptionPane.showInputDialog("Inserte un posible palindromo");
+		
+		new confirmarPalindromo();
+		
+		
+		if(confirmarPalindromo.esPalindromo(texto)) {
+			
+			JOptionPane.showInputDialog(texto+" Si es palindormo");
+		}else {
+			JOptionPane.showInputDialog(texto+" NO es palindormo");
+			
+		}
+		
+
+		
+		
+	}
+
+}
